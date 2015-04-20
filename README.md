@@ -4,6 +4,8 @@
 Ansible
 =======
 
+[![Join the chat at https://beta.gitter.im/gitterHQ/ansible](https://badges-beta.gitter.im/Join%20Chat.svg)](https://beta.gitter.im/gitterHQ/ansible?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ansible is a radically simple IT automation system.  It handles configuration-management, application deployment, cloud provisioning, ad-hoc task-execution, and multinode orchestration - including trivializing things like zero downtime rolling updates with load balancers.
 
 Read the documentation and more at http://ansible.com/
